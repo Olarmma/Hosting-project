@@ -1,0 +1,67 @@
+h2 {
+  color: blue;
+}
+h1 {
+  margin-left: 22px;
+  margin-top: 15px;
+}
+.custom {
+  text-align: center;
+}
+
+.image {
+  max-width: 50px;
+}
+.degree {
+  position: relative;
+  top: -10px;
+  font-size: 20px;
+  margin-left: -2px;
+}
+.temperature {
+  font-weight: 100;
+  font-size: 30px;
+}
+.country {
+  margin-top: 30px;
+}
+.unit2 {
+  margin-left: 20px;
+}
+.unit3 {
+  margin-left: 20px;
+}
+.unit4 {
+  margin-left: 20px;
+}
+
+.Day1 {
+  margin-left: 10px;
+}
+.Day2 {
+  margin-left: 80px;
+  margin-top: -71px;
+}
+.Day3 {
+  margin-left: 142px;
+  margin-top: -88px;
+}
+.Day4 {
+  margin-left: 210px;
+  margin-top: -88px;
+}
+
+.Day5 {
+  margin-left: 270px;
+  margin-top: -88px;
+}
+.weatherApp {
+  border: 1px solid rgb(180, 240, 180);
+  padding: 15px;
+  margin: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+}
+ul {
+  list-style: none;
+}
