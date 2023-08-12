@@ -5,9 +5,7 @@ h1 {
   margin-left: 22px;
   margin-top: 15px;
 }
-h6 {
-  margin-left: 40px;
-}
+
 .custom {
   text-align: center;
 }
@@ -67,4 +65,7 @@ h6 {
 }
 ul {
   list-style: none;
+}
+.coder {
+  margin: 10px;
 }
